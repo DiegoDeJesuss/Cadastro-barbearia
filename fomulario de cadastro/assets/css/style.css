@@ -60,8 +60,10 @@ body {
 .login-button{
     display: flex;
     align-items: center;
-    /* justify-content: right; */
+    /* justify-content: right; */  
 }
+
+
 
 .login-button button {
     border: none;
@@ -80,6 +82,11 @@ body {
     font-weight: 500;
     color: #fff;
 }
+
+.form-header h4{
+    margin-right: 10px;
+}
+
 
 .form-header h1::after{
     content: '';
@@ -140,6 +147,8 @@ body {
     font-weight: 500;
     color: #fff;
 }
+
+
 
 /*reponsividade*/
 
